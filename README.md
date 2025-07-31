@@ -1,4 +1,4 @@
-# Dataset 12 Rectangular Electronic Assembly under Repeated 5 kg impacts
+# Dataset 12 Rectangular Electronic BGA Assembly under Repeated 5 kg impacts
 The experimental setup consists of ...
 
 ## Licensing and Citation
